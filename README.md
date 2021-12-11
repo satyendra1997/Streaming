@@ -1,5 +1,4 @@
-# Streaming
-# Streaming
+
 # StreamingApp
 This is a app can be use for video streaming purpose
 
